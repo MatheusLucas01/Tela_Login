@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tela de Login Azure
 
 Este projeto apresenta uma tela de login simples, desenvolvida em React com Vite e CSS (arquivos .css), inspirada na identidade visual do Azure.
@@ -62,4 +63,3 @@ Crie uma nova branch para sua feature/correção:
 Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e modificá-lo conforme suas necessidades.
 
 Feito com 💙 por Matheus Lucas.
-
