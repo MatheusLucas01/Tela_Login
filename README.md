@@ -1,40 +1,26 @@
+<h1 align="center"> Tela de Login</h1>
 
-# Tela de Login Azure
+🚀 Tecnologias
 
-Este projeto apresenta uma tela de login simples, desenvolvida em React com Vite e CSS (arquivos .css), inspirada na identidade visual do Azure.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Demonstração
-Acesse o projeto em funcionamento: 🔗https://tela-login-azure.vercel.app/
-
-## Tecnologias Utilizadas
-
-React (com Vite)
+ReactJS com Vite
 
 JavaScript (ES6+)
 
-CSS3 (arquivos .css)
+CSS3
 
-HTML5
+Git e GitHub
 
-## Possíveis Melhorias
+💻 Projeto
 
-Autenticação Real: Conectar a tela de login com algum back-end ou serviço de autenticação (Azure AD, Firebase, etc.).
+A Tela de Login Azure é uma interface simples e responsiva para autenticação de usuários, inspirada na identidade visual do Azure.
 
-Validações de Formulário: Adicionar validação de e-mail, senha e mensagens de erro mais detalhadas.
+:memo: Licença
 
-Responsividade Avançada: Ajustar pontos de quebra (breakpoints) para oferecer uma experiência aprimorada em diferentes dispositivos.
+Esse projeto está sob a licença MIT.
 
-Dark Mode: Implementar um tema escuro opcional para a aplicação.
+Desenvolvido por [Seu Nome]. 💙
 
-## Contribuindo
 
-Contribuições são bem-vindas! Para contribuir:
 
-Faça um fork do repositório.
-
-Crie uma nova branch para sua feature/correção:
-
-## Licença
-Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e modificá-lo conforme suas necessidades.
-
-Feito com 💙 por Matheus Lucas.
