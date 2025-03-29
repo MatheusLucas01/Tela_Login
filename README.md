@@ -1,12 +1,65 @@
-# React + Vite
+# Tela de Login Azure
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto apresenta uma tela de login simples, desenvolvida em React com Vite e CSS (arquivos .css), inspirada na identidade visual do Azure.
 
-Currently, two official plugins are available:
+## Demonstração
+Acesse o projeto em funcionamento: 🔗https://tela-login-azure.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+React (com Vite)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+JavaScript (ES6+)
+
+CSS3 (arquivos .css)
+
+HTML5
+
+Estrutura de Pastas
+Conforme a imagem anexada, o projeto segue esta organização:
+
+tela_login/
+├── node_modules/            # Dependências instaladas
+├── public/                  # Arquivos estáticos (se necessários)
+├── src/
+│   ├── assets/
+│   │   └── background.jpg   # Imagem de fundo
+│   ├── Components/
+│   │   └── Login/
+│   │       ├── Login.css    # Estilos específicos do componente de login
+│   │       └── Login.jsx    # Componente de login
+│   ├── App.css              # Estilos globais ou do App
+│   ├── App.jsx              # Componente principal da aplicação
+│   ├── index.css            # Estilos globais adicionais
+│   └── main.jsx             # Ponto de entrada do React
+├── .gitignore               # Arquivos/pastas ignorados pelo Git
+├── eslint.config.js         # Configuração do ESLint
+├── index.html               # HTML base para a aplicação
+├── package-lock.json
+├── package.json
+├── README.md                # Este arquivo
+└── vite.config.js           # Configurações do Vite
+
+## Possíveis Melhorias
+
+Autenticação Real: Conectar a tela de login com algum back-end ou serviço de autenticação (Azure AD, Firebase, etc.).
+
+Validações de Formulário: Adicionar validação de e-mail, senha e mensagens de erro mais detalhadas.
+
+Responsividade Avançada: Ajustar pontos de quebra (breakpoints) para oferecer uma experiência aprimorada em diferentes dispositivos.
+
+Dark Mode: Implementar um tema escuro opcional para a aplicação.
+
+## Contribuindo
+
+Contribuições são bem-vindas! Para contribuir:
+
+Faça um fork do repositório.
+
+Crie uma nova branch para sua feature/correção:
+
+## Licença
+Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e modificá-lo conforme suas necessidades.
+
+Feito com 💙 por Matheus Lucas.
+
