@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Tela de Login Azure
 
 Este projeto apresenta uma tela de login simples, desenvolvida em React com Vite e CSS (arquivos .css), inspirada na identidade visual do Azure.
@@ -15,31 +15,6 @@ JavaScript (ES6+)
 CSS3 (arquivos .css)
 
 HTML5
-
-Estrutura de Pastas
-Conforme a imagem anexada, o projeto segue esta organização:
-
-tela_login/
-├── node_modules/            # Dependências instaladas
-├── public/                  # Arquivos estáticos (se necessários)
-├── src/
-│   ├── assets/
-│   │   └── background.jpg   # Imagem de fundo
-│   ├── Components/
-│   │   └── Login/
-│   │       ├── Login.css    # Estilos específicos do componente de login
-│   │       └── Login.jsx    # Componente de login
-│   ├── App.css              # Estilos globais ou do App
-│   ├── App.jsx              # Componente principal da aplicação
-│   ├── index.css            # Estilos globais adicionais
-│   └── main.jsx             # Ponto de entrada do React
-├── .gitignore               # Arquivos/pastas ignorados pelo Git
-├── eslint.config.js         # Configuração do ESLint
-├── index.html               # HTML base para a aplicação
-├── package-lock.json
-├── package.json
-├── README.md                # Este arquivo
-└── vite.config.js           # Configurações do Vite
 
 ## Possíveis Melhorias
 
